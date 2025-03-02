@@ -34,7 +34,7 @@ El siguiente documento detalla el analisis de datos y dashboard de Airbnb en Ciu
 ![](/img/img_2_1.jpg)
 
 
-**Extracción de Datos:** Una manera sencilla de poder extraer los datos es tomar el archivo directamente de internet, utilizando la librería `requests`. Pero al no tener garantías de obtener el mismo archivo utilizado para este analisis en el futuro (y poder reproducir los mismos resultados mencionados aquí), decidí descargarlo y cargarlo en el repositorio. El link se encuentra en la ultima sección de este documento.
+**Extracción de Datos:** Una manera sencilla de poder extraer los datos es tomar el archivo directamente de la pagina oficial, utilizando la librería `requests`. Pero al no tener garantías de obtener el mismo archivo utilizado para este analisis en el futuro (y poder reproducir los mismos resultados mencionados aquí), decidí descargarlo y cargarlo en el repositorio. El link se encuentra en la ultima sección de este documento.
 
  
 
