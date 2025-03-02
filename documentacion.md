@@ -150,11 +150,11 @@ Aunque no se traté del proyecto más complejo, creo que pude encontrar insights
 
 
 # Referencias y Anexos
-- [Repositorio de Github](______ repo)
-- [Dashboard Power BI (Archivo)](________ archivo repo)
+- [Repositorio de Github](https://github.com/duranueva/Proyecto-Airbnb)
+- [Dashboard Power BI (Archivo)](https://github.com/duranueva/Proyecto-Airbnb/blob/main/tools/proyecto.pbix)
 - [Notebook de Python](https://colab.research.google.com/drive/1dyiZyBeV2cTuW8U4jARMFNF27jTNMdYb?usp=sharing)
-- [Dataset](____ archivo repo). 
-- [Sitio de Datos Airbnb](https://insideairbnb.com/get-the-data/)
+- [Dataset](https://github.com/duranueva/Proyecto-Airbnb/blob/main/tools/listings.csv). 
+- [Sitio de Datos Airbnb, donde se tomó el Dataset](https://insideairbnb.com/get-the-data/)
 - [Inmuebles creados para el modelo de renta Airbnb](https://www.eluniversal.com.mx/metropoli/edifican-inmuebles-para-rentarlos-en-la-plataforma-airbnb-turismo/?utm_source=chatgpt.com)
 
 
