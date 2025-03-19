@@ -6,7 +6,7 @@
   <img src="/img/img_1.png" alt="Description" width="1000">
 </p>
 
-Jean Durán Villanueva. Febrero 2024.
+Jean Durán Villanueva. Febrero 2025.
 
 
 # Resumen
